@@ -14,3 +14,6 @@ public class Example {
   }
 }
 ```
+- [x] Be awesome
+- [ ] Be not awesome
+- [ ] Be uncool in any way
